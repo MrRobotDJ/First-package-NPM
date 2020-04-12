@@ -15,7 +15,7 @@ random-mensage
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-mensage](https://github.com/platzi/npm-random-mensage)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-mensage](https://github.com/MrRobotDJ/First-package-NPM)
 
 # License
 random-mensage is released under the [MIT License](https://opensource.org/licenses/MIT).
