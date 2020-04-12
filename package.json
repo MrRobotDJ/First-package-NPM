@@ -14,7 +14,15 @@
   "author": "Dacarr <dannycarra12@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-mensage": "./bin/global.js"
+    "random-mensage": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrRobotDJ/First-package-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrRobotDJ/First-package-NPM/issues"
+  },
+  "homepage": "https://github.com/MrRobotDJ/First-package-NPM#readme"
 }
